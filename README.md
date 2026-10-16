@@ -1,80 +1,120 @@
-<h1 align="center">Hi 👋, I'm Rasika Ware</h1>
-<h3 align="center">Data Analyst & M.Sc. Computer Science student — turning data into decisions</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rasikaware&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+# Hi there, I'm Rasika 👋
+
+**Data Analyst · M.Sc. Computer Science student at RPTU Kaiserslautern-Landau**
+
+📍 Kaiserslautern, Germany
+
+<a href="https://www.linkedin.com/in/rasikaware" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rasikaware06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 ---
 
-### 🙋‍♀️ About me
+## 🙋‍♀️ About me
 
 - 🎓 Studying for an **M.Sc. in Computer Science** at **RPTU Kaiserslautern-Landau**, Germany
-- 📊 Former **Data Analyst** at DataCause Analytics (Pune): built KPIs that increased revenue by 35% and workflow efficiency by 28%
-- 🌱 Currently exploring AI/ML
-- 📍 Based in **Kaiserslautern, Germany**
-
-### 📫 Reach me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rasikaware" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rasikaware06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+- 📊 Former **Data Analyst** at DataCause Analytics (Pune): built KPIs that increased revenue by **35%** and workflow efficiency by **28%**
+- 🌱 Currently exploring **AI/ML**
 
 ---
 
-### 🚀 Featured projects
+## 🚀 Featured projects
 
-| Project | What it does | Tech |
-| --- | --- | --- |
-| [**Time-Series Anomaly Detection**](https://github.com/Rasikaware/nobooM-anomaly-detection) | Detects anomalies second by second in 18 sensors of a chemical plant; ensemble of 35 LSTM/BiLSTM autoencoders + Deep Forest; leaderboard F1 0.58 → 0.64 | Python, TensorFlow/Keras, scikit-learn |
-| **Desktop Game Application** | Hexagon Chess, Memory Game with LAN multiplayer, thread-safe UI/network state | Java, JavaFX, MVC |
-| **Sales Analytics for E-Commerce** | Found 18.7% loss-making orders and compared 5 global markets and 50 product categories | Tableau |
-| **Swimming Pool Management System** | 8-table normalized database, role-based login, automated ID cards and receipts | Java, MySQL |
-
----
-
-### 🛠️ Tech stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-**Machine learning & data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**BI & analytics**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/Rasikaware/nobooM-anomaly-detection">Time-Series Anomaly Detection</a></h3>
+      <p>Detects anomalies second by second in 18 sensors of a chemical plant, using an ensemble of 35 LSTM/BiLSTM autoencoders + Deep Forest. Leaderboard F1 improved from <b>0.58 → 0.64</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/Rasikaware/the-loop-never-ends">The Loop Never Ends</a></h3>
+      <p><i>(Retro Game Box: a JavaFX desktop app with 3 multiplayer games)</i><br/>
+      Memory Game, 1v1 Tetris with swap power-ups, and Hexagonal Chess, all playable over LAN with thread-safe UI and network state.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logoColor=white" alt="JavaFX" />
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 Sales Analytics for E-Commerce</h3>
+      <p>Found <b>18.7%</b> loss-making orders and compared 5 global markets and 50 product categories to guide pricing and product mix.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logoColor=white" alt="Tableau" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏊 Swimming Pool Management System</h3>
+      <p>8-table normalized database, role-based login, and automated ID cards and receipts with coupon discounts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌍 Languages I speak
+## 🛠️ Tech stack
 
-English (C1) · Hindi (C1) · Marathi (C1) · German (B1)
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,java,c&theme=dark" alt="Python, Java, C" /></td>
+  </tr>
+  <tr>
+    <td><b>Machine learning</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" alt="TensorFlow, scikit-learn" /><br/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL, PostgreSQL" /><br/>
+      <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logoColor=white" alt="MS SQL Server" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>BI & analytics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logoColor=white" alt="Tableau" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logoColor=white" alt="Excel" />
+      <img src="https://img.shields.io/badge/DAX-555555?style=flat-square&logoColor=white" alt="DAX" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,gitlab,maven,idea&theme=dark" alt="Git, GitLab, Maven, IntelliJ IDEA" /><br/>
+      <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+    </td>
+  </tr>
+</table>
 
-<p align="center"><i>Thanks for visiting! Feel free to connect on LinkedIn.</i></p>
+---
+
+## 🌍 Languages I speak
+
+🇬🇧 **English** (C1) &nbsp;·&nbsp; 🇮🇳 **Hindi** (C1) &nbsp;·&nbsp; 🇮🇳 **Marathi** (C1) &nbsp;·&nbsp; 🇩🇪 **German** (B1)
+
+---
+
+<div align="center">
+  <i>Thanks for stopping by! Let's connect on <a href="https://www.linkedin.com/in/rasikaware">LinkedIn</a>.</i>
+</div>
